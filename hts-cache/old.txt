@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:05:09	1256/1256	---M--	404	error ('Not%20Found')	text/html	etag:%2284238dfc8092e5d9c0dac8ef93371a07:1736799080.121134%22	https://example.com/robots.txt		(from )
+18:05:09	1256/1256	---M-Z	200	added ('OK')	text/html	etag:%2284238dfc8092e5d9c0dac8ef93371a07:1736799080.121134%22	https://example.com/	/data/data/com.termux/files/home/websites/mavenfinance.com.pl/example.com/index.html	(from )

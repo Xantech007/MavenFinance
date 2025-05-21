@@ -1,0 +1,32 @@
+HTTrack3.49-6 launched on Wed, 21 May 2025 18:06:02 at https://mavenfinance.com.pl
+(httrack https://mavenfinance.com.pl -O /data/data/com.termux/files/home/websites/mavenfinance.com.pl )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:08:54	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js (from https://mavenfinance.com.pl/)
+18:08:54	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/files.coinmarketcap.com/static/widget/coinMarquee.js (from https://mavenfinance.com.pl/)
+18:08:54	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js (from https://mavenfinance.com.pl/)
+18:08:57	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/âhttps://www.smartsupp.comâ (from https://mavenfinance.com.pl/)
+18:10:55	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/contact.html (from https://mavenfinance.com.pl/contact)
+18:10:55	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/3D2GoedLg8L3e7B5Q9Ev.png (from https://mavenfinance.com.pl/contact)
+18:10:55	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/privacy-policy.html (from https://mavenfinance.com.pl/contact)
+18:10:56	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/terms-and-conditions.html (from https://mavenfinance.com.pl/contact)
+18:11:04	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/version/index-2.html (from https://mavenfinance.com.pl/js/swiper.min.js)
+18:11:04	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/frontend/css/owl.video.play.png (from https://mavenfinance.com.pl/assets/frontend/css/owl.carousel.min.css)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/jROrQC86dWkOCiRN5XW9.png (from https://mavenfinance.com.pl/schema)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/uVv3a9kqDDgkqVuCewUd.png (from https://mavenfinance.com.pl/schema)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/OhxqY5FE8TSja08EVK4E.png (from https://mavenfinance.com.pl/schema)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/MUtTx6WVGIpCuqAWBqpP.png (from https://mavenfinance.com.pl/schema)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/zKE7zotoyFWNE28dMaLb.png (from https://mavenfinance.com.pl/schema)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/KtdCW965xGWOilEOnNSL.png (from https://mavenfinance.com.pl/schema)
+18:11:16	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/assets/global/images/KR66C88een6aqolzT0eM.png (from https://mavenfinance.com.pl/schema)
+18:11:26	Warning: 	Moved Permanently for https://mavenfinance.com.pl/dist/
+18:11:26	Warning: 	File has moved from https://mavenfinance.com.pl/dist/ to https://mavenfinance.com.pl/dist
+18:11:27	Error: 	"Not Found" (404) at link https://mavenfinance.com.pl/Node.js (from https://mavenfinance.com.pl/assets/vendor/mckenziearts/laravel-notify/js/notify.js)
+18:11:31	Error: 	"Error when decompressing" (-1) at link https://mavenfinance.com.pl/dist (from https://mavenfinance.com.pl/dist/)
+
+HTTrack Website Copier/3.49-6 mirror complete in 5 minutes 29 seconds : 275 links scanned, 254 files written (25637053 bytes overall), 254 files updated [14591307 bytes received at 44350 bytes/sec], 16551573 bytes transferred using HTTP compression in 181 files, ratio 31%, 9.6 requests per connection
+(19 errors, 2 warnings, 0 messages)

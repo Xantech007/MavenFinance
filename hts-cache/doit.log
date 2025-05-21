@@ -1,0 +1,8 @@
+https://mavenfinance.com.pl -O /data/data/com.termux/files/home/websites/mavenfinance.com.pl
+File generated automatically on Wed, 21 May 2025 18:06:02, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
